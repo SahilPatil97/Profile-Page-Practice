@@ -1,0 +1,27 @@
+#DeltaPlaceHolderPageTitleInTitleArea {
+    padding: 1% 13%;
+}
+
+span#DeltaPlaceHolderPageTitleInTitleArea {
+    display: block;
+    background: #003d63;
+    padding: 1% 12%;
+    font-size: 20px;
+    color: #fff;
+
+}
+.alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 15px;
+    margin-right: 15%;
+    margin-left: 15%;
+}
